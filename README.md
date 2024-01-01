@@ -9,6 +9,7 @@ Smooth Transitions: Enjoy visually pleasing panel collapses with smooth transiti
 Customizable Styling: Easily modify the styling to fit your project's design requirements.
 
 Clone the Repository
+
 git clone https://github.com/Hadiqaa/Horizontal-Collapse-CSS-JS.git
 
 
